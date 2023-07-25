@@ -28,9 +28,3 @@ export LOAD_POSTGRES_DATABASE="database"
 export LOAD_POSTGRES_SCHEMA="schema"
 export LOAD_DATA_DIRECTORY="path/to/directory"
 ```
-
-## Understanding the data structure
-
-The following gist can be used to understand the structure of the local files.
-
-<script src="https://gist.github.com/mitchealex1/620d34a68123e9047d8e6df17a4a580f.js"></script>
