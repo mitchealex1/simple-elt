@@ -1,2 +1,3 @@
-# simple-elt
-Code to ingest local files into a database
+# Simple ELT 🧙
+
+A script that reads data from local files and ingests the data into a database.
