@@ -19,7 +19,7 @@ class JSONFileLoader(FileLoader):
         data = []
         for path in files:
             with open(path, encoding="utf-8") as data_file:
-                data.append(json.load(data_file))
+                data.append(json.load(data_file, strict=False))
         return data
 
 
